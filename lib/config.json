@@ -1,0 +1,21 @@
+{
+	"debug": true,
+	"host": "pooter.sandile.me",
+	"port": 3546,
+	"secretKey": "secret_key",
+	"googleClientId": "536098998739-dn8iv8i1gk4pre2phi8umoutnareqac3.apps.googleusercontent.com",
+	"googleClientSecret": "f4vl7cFJRglIj5G9OFDVu4j9",
+	"redirectPath": "/google/callback",
+	"googleAuthUrl": "https://accounts.google.com/o/oauth2/auth",
+	"googleTokenUrl": "https://accounts.google.com/o/oauth2/token",
+	"googleInfoRequestUrl": "https://www.googleapis.com/oauth2/v3/userinfo",
+	"authPath": "/google/info",
+	"authCallbackPath": "/google/callback",
+	"authSuccessPath": "/user/data",
+	"isPersistent": false,
+	"mongoUrl": "mongodb://pooter.sandile.me:27017/",
+	"collectionName": "lmgtfy2",
+	"isSecure": false,
+	"sslKeyPath": "",
+	"sslCertificatePath": ""
+}
